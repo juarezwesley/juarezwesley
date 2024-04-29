@@ -8,18 +8,11 @@
   <p align="center">
     Sou estudante do curso superior de tecnologia de análise e desenvolvimento de sistemas pela Universidade Uniasselvi.
     
-      <img
-           width="10%" 
-           align="center" 
-           valign="middle" 
-           src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social" 
-           target="_blank" 
-      />
     </a>  
   </p>
   
   <p align="center">
-    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
+   Seja bem vindo (a) ao meu perfil 😉️
   </p>
   
 </div>

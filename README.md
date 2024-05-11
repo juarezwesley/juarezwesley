@@ -1,9 +1,9 @@
 <div>
   
- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=230&color=1e90ff&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Juarez+🫡\;Sou+um+desenvolvedor+Back-End.+\;Busco+uma+oportunidade+de+estágio.😁+)
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=230&color=1e90ff&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Juarez+🫡\;Sou+um+desenvolvedor+Back-End+👨🏻‍💻+\;Busco+uma+oportunidade+de+estágio.😁+)
 
   <h2 align="center">
-   Seja bem vindo (a) ao meu perfil 🙋🏻‍♂️
+   Seja bem vindo (a) ao meu <a href="https://www.linkedin.com/in/juarez-wesley">perfil 🙋🏻‍♂️
   </h2><br>
   
   <p align="center">

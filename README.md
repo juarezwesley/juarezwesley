@@ -6,11 +6,6 @@
    Seja bem vindo (a) ao meu <a href="https://www.linkedin.com/in/juarez-wesley">perfil 🙋🏻‍♂️
   </h2><br>
   
-  <p align="center">
-    Sou estudante do Curso Superior de Tecnologia (CST) de Análise e Desenvolvimento de Sistemas pela Universidade Uniasselvi.
-     </p>
-     <p align="center">Modalidade: EAD.</p><br>
-  
 </div>
 
 <div align="center">
@@ -37,7 +32,6 @@
 </h2>
 
 <div align="center">
-  <a href="https://www.instagram.com/juarezweslley/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juarez-wesley/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:juniormonte22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/+5511989504174"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
